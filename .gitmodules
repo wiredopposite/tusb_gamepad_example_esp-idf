@@ -1,6 +1,6 @@
 [submodule "components/tusb_gamepad"]
 	path = components/tusb_gamepad
-	url = https://github.com/wiredopposite/usbd.git
+	url = https://github.com/wiredopposite/tusb_gamepad.git
 [submodule "lib/tinyusb"]
 	path = lib/tinyusb
 	url = https://github.com/hathach/tinyusb.git
